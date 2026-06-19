@@ -1,0 +1,14 @@
+{
+  "name": "Clojure Learning",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "betterthantomorrow.calva",
+        "formulahendry.code-runner"
+      ]
+    }
+  }
+}
